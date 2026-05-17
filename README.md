@@ -66,6 +66,7 @@ Possible future improvements:
 - Website: [judyahmad.com](https://judyahmad.com)
 - GitHub: [@judyahmadd](https://github.com/judyahmadd)
 - X (Twitter): [@judyahmadd](https://x.com/judyahmadd)
+- Read the writeup:[Building a Simple Encrypted Password Manager in Python](https://judyahmad.com/building-encrypted-password-manager-python/)
 
 ## License
 
